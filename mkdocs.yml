@@ -1,0 +1,7 @@
+site_name: 'fun-example-service-9000 Docs'
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
